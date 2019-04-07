@@ -1,7 +1,7 @@
 ### Event Contributors
 #### GitHub usernames ordered alphabetically
 
-|GitHub username|
+|Username|
 |---|
 [alanpoulain](https://github.com/alanpoulain)
 [alcaeus](https://github.com/alcaeus)
