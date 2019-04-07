@@ -1,8 +1,3 @@
----
-title: Engaging, influential and exciting tweets
-layout: post
----
-
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">{newline}</script>
 ### Engaging, influential and exciting tweets
 
