@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/eu-fossa-logo.png"/></p>
+<p align="center"><img src="./assets/symfony-logo.png" style="margin: 30px" alt="Symfony logo"/><img src="./assets/eu-fossa-logo.png" style="margin: 30px" alt="EU FOSSA logo"/><img src="./assets/api-platform-logo.png" style="margin: 30px" alt="API Platform logo"/></p>
 <h1 align="center">Symfony Hackathon 2019</h1>
 
 With over 50 confirmed participants, the first [EU FOSSA](https://joinup.ec.europa.eu/collection/eu-fossa-2/about) [hackathon](https://eufossahackathon.bemyapp.com/) focused on PHP [Symfony](https://symfony.com) and [API Platform](https://api-platform.com/).
