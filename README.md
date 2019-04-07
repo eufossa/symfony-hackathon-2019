@@ -16,5 +16,6 @@ During the hackathon, some of the most active developers from the PHP Symfony co
   * [Documentation](documentation.md)
   * [Security](security.md)
   * [Serializer](serializer.md)
+  * [Statistics](statistics.md)
 * [Tweets](tweets.md)
 * [Resources](resources.md)
