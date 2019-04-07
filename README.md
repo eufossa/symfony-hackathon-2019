@@ -3,7 +3,7 @@
 
 <p align="center"><img src="./assets/symfony-logo.png" style="margin: 20px" alt="Symfony logo"/><img src="./assets/api-platform-logo.png" style="margin: 20px" alt="API Platform logo"/></p>
 
-With over 50 confirmed participants, the first [EU FOSSA](https://joinup.ec.europa.eu/collection/eu-fossa-2/about) [hackathon](https://eufossahackathon.bemyapp.com/) focused on PHP [Symfony](https://symfony.com) and [API Platform](https://api-platform.com/).
+With over 50 participants, the first [EU FOSSA](https://joinup.ec.europa.eu/collection/eu-fossa-2/about) [hackathon](https://eufossahackathon.bemyapp.com/) focused on PHP [Symfony](https://symfony.com) and [API Platform](https://api-platform.com/).
 It took place in Brussels on 6 and 7 April 2019.
 
 During the hackathon, some of the most active developers from the PHP Symfony community got together, many for the first time. The purpose of the hackathon was to bring together developers from outside and within the European Commission. Their time together was spent working on important issues for the community and the EU institutions such as new features and security.
@@ -12,7 +12,7 @@ During the hackathon, some of the most active developers from the PHP Symfony co
 
 ### Achievements
 
-During the hackathon, attendees worked on different activities, not only coding but also reflecting on different topics such as diversity within the community.
+The participants worked on different activities, not only coding but also reflecting on different topics such as diversity within the community.
 
 See [repositories statistics](achievements/statistics.md) and the different topics that have been worked on:
 
