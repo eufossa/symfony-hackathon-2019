@@ -1,4 +1,5 @@
-# Symfony Hackathon 2019
+<p align="center"><img src="./assets/eu-fossa-logo.jpg"/></p>
+<h1 align="center">Symfony Hackathon 2019</h1>
 
 ## About
 
