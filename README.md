@@ -9,13 +9,19 @@ During the hackathon, some of the most active developers from the PHP Symfony co
 
 ## More information
 
-* [Achievements](achievements.md)
-  * [API Platform](api-platform.md)
-  * [Diversity](diversity.md)
-  * [Doctrine](doctrine.md)
-  * [Documentation](documentation.md)
-  * [Security](security.md)
-  * [Serializer](serializer.md)
-  * [Statistics](statistics.md)
+### Achievements
+
+During the hackathon, attendees worked on different activities, not only coding but also reflecting on different topics such as diversity within the community.
+
+* [API Platform](api-platform.md)
+* [Diversity](diversity.md)
+* [Doctrine](doctrine.md)
+* [Documentation](documentation.md)
+* [Security](security.md)
+* [Serializer](serializer.md)
+* [Statistics](statistics.md)
+
+### Resources and links
+
 * [Tweets](tweets.md)
 * [Resources](resources.md)
