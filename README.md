@@ -29,4 +29,4 @@ See [Repositories statistics](achievements/statistics.md) and the different topi
 
 ### Event contributors
 
-* [Event Contributors via GitHub cards](contributors.md)
+* [Event Contributors - GitHub accounts](contributors.md)
