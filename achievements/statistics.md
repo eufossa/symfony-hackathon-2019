@@ -1,8 +1,26 @@
 # Repositories statistics
 
-## Diversity Statistics
+## Code
 
-For more information, see [the diversity achievements](diversity.md).
+|                          | Total |
+| ------------------------ | ----- |
+| Merged Pull Requests     |       |
+| Proposed Pull Requests   |       |
+| Closed Issues            |       |
+| New Issues               |       |
+
+## Security
+
+## Documentation
+
+|                          | Total |
+| ------------------------ | ----- |
+| Merged Pull Requests     |       |
+| Proposed Pull Requests   |       |
+| Closed Issues            |       |
+| New Issues               |       |
+
+## Diversity
 
 |                          | Total |
 | ------------------------ | ----- |
@@ -10,3 +28,5 @@ For more information, see [the diversity achievements](diversity.md).
 | New Issues created       | 12    |
 | Diversity PRs merged     | 3     |
 | Documentation PRs merged | 2     |
+
+For more information, see [the diversity achievements](diversity.md).
