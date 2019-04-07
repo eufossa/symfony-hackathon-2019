@@ -1,8 +1,6 @@
 <p align="center"><img src="./assets/eu-fossa-logo.png"/></p>
 <h1 align="center">Symfony Hackathon 2019</h1>
 
-## About
-
 With over 50 confirmed participants, the first [EU FOSSA](https://joinup.ec.europa.eu/collection/eu-fossa-2/about) [hackathon](https://eufossahackathon.bemyapp.com/) focused on PHP [Symfony](https://symfony.com) and [API Platform](https://api-platform.com/).
 It took place in Brussels on 6 and 7 April 2019.
 
