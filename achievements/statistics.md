@@ -4,10 +4,10 @@
 
 |                          | Total |
 | ------------------------ | ----- |
-| Merged Pull Requests     |       |
-| Proposed Pull Requests   |       |
-| Closed Issues            |       |
-| New Issues               |       |
+| Merged Pull Requests     | 105   |
+| Proposed Pull Requests   | 181   |
+| Closed Issues            |  79   |
+| New Issues               | 143   |
 
 ## Security
 
