@@ -1,4 +1,4 @@
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js">{newline}</script>
+<script async src="https://cdn.jsdelivr.net/github-cards/latest/widget.js" charset="utf-8">{newline}</script>
 
 <div class="github-card" data-github="nicolas-grekas" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="chalasr" data-width="400" data-height="150" data-theme="default"></div>
