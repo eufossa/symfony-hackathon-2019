@@ -54,7 +54,7 @@
 1. [toflar](https://github.com/toflar)
 1. [tucksaun](https://github.com/tucksaun)
 1. [vincentchalamon](https://github.com/vincentchalamon)
-1. [voidtek](https://github.com/)
+1. [voidtek](https://github.com/voidtek)
 1. [vudaltsov](https://github.com/vudaltsov)
 1. [wouterj](https://github.com/wouterj)
 1. [xabbuh](https://github.com/xabbuh)
