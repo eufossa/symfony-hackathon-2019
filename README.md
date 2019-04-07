@@ -25,3 +25,7 @@ During the hackathon, attendees worked on different activities, not only coding 
 
 * [Tweets](tweets.md)
 * [Resources](resources.md)
+
+### Event contributors
+
+* [Event Contributors via GitHub cards](contributors.md)
