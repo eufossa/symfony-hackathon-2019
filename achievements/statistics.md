@@ -11,6 +11,9 @@
 
 ## Security
 
+* 2 security issues were fixed
+* 3 other security issues were worked on
+
 ## Documentation
 
 |                          | Total |
