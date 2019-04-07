@@ -10,8 +10,8 @@ During the hackathon, some of the most active developers from the PHP Symfony co
 ## More information
 
 * [Achievements](achievements.md)
-** [API Platform](api-platform.md
-** [Diversity](diversity.md
+** [API Platform](api-platform.md)
+** [Diversity](diversity.md)
 ** [Doctrine](doctrine.md)
 ** [Documentation](documentation.md)
 ** [Security](security.md)
