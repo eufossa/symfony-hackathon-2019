@@ -1,61 +1,63 @@
-<script async src="https://cdn.jsdelivr.net/github-cards/latest/widget.js" charset="utf-8">{newline}</script>
-### Event Contributors via GitHub cards - ordered alphabetically
+### Event Contributors
+#### GitHub usernames ordered alphabetically
 
-<div class="github-card" data-github="alanpoulain" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="alcaeus" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="alexander-schranz" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="antograssiot" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="chalasr" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="curry684" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="dbrumann" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="dbu" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="deguif" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="derrabus" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="Deuchnord" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="dmaicher" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="drupol" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="dxvargas" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="fabpot" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="fancyweb " data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="greg0ire" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="GregoireHebert" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="HeahDude" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="hhamon" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="jderusse" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="jewome62" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="jfhovinne" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="jfthuillier" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="joelwurtz" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="linaori" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="llaakkkk" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="lsmith77" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="lyrixx" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="maidmaid" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="michaelcullum" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="michellesanver" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="mpdude" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="Nek-" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="netlooker" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="nicolas-grekas" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="Nyholm" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="ocramius" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="OskarStark" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="ostrolucky" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="pborreli" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="simperfit" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="soyuka" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="sroze" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="sstok" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="stof" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="tgalopin" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="theofidry" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="TimoBakx" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="Tobion" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="toflar" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="tucksaun" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="vincentchalamon" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="voidtek" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="vudaltsov" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="wouterj" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="xabbuh" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="yceruto" data-width="400" data-height="150" data-theme="default"></div>
+|GitHub username|
+|---|
+[alanpoulain](https://github.com/alanpoulain)
+[alcaeus](https://github.com/alcaeus)
+[alexander-schranz](https://github.com/alexander-schranz)
+[antograssiot](https://github.com/antograssiot)
+[chalasr](https://github.com/chalasr)
+[curry684](https://github.com/curry684)
+[dbrumann](https://github.com/dbrumann)
+[dbu](https://github.com/dbu)
+[deguif](https://github.com/deguif)
+[derrabus](https://github.com/derrabus)
+[Deuchnord](https://github.com/Deuchnord)
+[dmaicher](https://github.com/dmaicher)
+[drupol](https://github.com/drupol)
+[dxvargas](https://github.com/dxvargas)
+[fabpot](https://github.com/fabpot)
+[fancyweb ](https://github.com/fancyweb )
+[greg0ire](https://github.com/greg0ire)
+[GregoireHebert](https://github.com/GregoireHebert)
+[HeahDude](https://github.com/HeahDude)
+[hhamon](https://github.com/hhamon)
+[jderusse](https://github.com/jderusse)
+[jewome62](https://github.com/jewome62)
+[jfhovinne](https://github.com/jfhovinne)
+[jfthuillier](https://github.com/jfthuillier)
+[joelwurtz](https://github.com/joelwurtz)
+[linaori](https://github.com/linaori)
+[llaakkkk](https://github.com/llaakkkk)
+[lsmith77](https://github.com/lsmith77)
+[lyrixx](https://github.com/lyrixx)
+[maidmaid](https://github.com/maidmaid)
+[michaelcullum](https://github.com/michaelcullum)
+[michellesanver](https://github.com/michellesanver)
+[mpdude](https://github.com/mpdude)
+[Nek-](https://github.com/Nek-)
+[netlooker](https://github.com/netlooker)
+[nicolas-grekas](https://github.com/nicolas-grekas)
+[Nyholm](https://github.com/Nyholm)
+[ocramius](https://github.com/ocramius)
+[OskarStark](https://github.com/OskarStark)
+[ostrolucky](https://github.com/ostrolucky)
+[pborreli](https://github.com/pborreli)
+[simperfit](https://github.com/simperfit)
+[soyuka](https://github.com/soyuka)
+[sroze](https://github.com/sroze)
+[sstok](https://github.com/sstok)
+[stof](https://github.com/stof)
+[tgalopin](https://github.com/tgalopin)
+[theofidry](https://github.com/theofidry)
+[TimoBakx](https://github.com/TimoBakx)
+[Tobion](https://github.com/Tobion)
+[toflar](https://github.com/toflar)
+[tucksaun](https://github.com/tucksaun)
+[vincentchalamon](https://github.com/vincentchalamon)
+[voidtek](https://github.com/)
+[vudaltsov](https://github.com/vudaltsov)
+[wouterj](https://github.com/wouterj)
+[xabbuh](https://github.com/xabbuh)
+[yceruto](https://github.com/yceruto)
