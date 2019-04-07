@@ -13,13 +13,14 @@ During the hackathon, some of the most active developers from the PHP Symfony co
 
 During the hackathon, attendees worked on different activities, not only coding but also reflecting on different topics such as diversity within the community.
 
+See [Repositories statistics](achievements/statistics.md) and the different topics that have been worked on:
+
 * [API Platform](achievements/api-platform.md)
 * [Diversity](achievements/diversity.md)
 * [Doctrine](achievements/doctrine.md)
 * [Documentation](achievements/documentation.md)
 * [Security](achievements/security.md)
 * [Serializer](achievements/serializer.md)
-* [Statistics](achievements/statistics.md)
 
 ### Resources and links
 
