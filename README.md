@@ -10,4 +10,5 @@ During the hackathon, some of the most active developers from the PHP Symfony co
 ## More information
 
 * [Achievements](achievements.md)
+* [Tweets](tweets.md)
 * [Resources](resources.md)
