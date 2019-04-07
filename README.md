@@ -1,4 +1,4 @@
-# EU FOSSA Symfony Hackathon 2019
+# Symfony Hackathon 2019
 
 ## About
 
