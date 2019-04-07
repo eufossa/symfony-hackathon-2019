@@ -6,8 +6,8 @@
 | ------------------------ | ----- |
 | Merged Pull Requests     | 105   |
 | Proposed Pull Requests   | 181   |
-| Closed Issues            |  79   |
-| New Issues               | 143   |
+| Closed Pull Requests     | 107   |
+| Pull Requests Worked On  | 181   |
 
 ## Security
 
