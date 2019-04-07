@@ -1,5 +1,5 @@
 <script async src="https://cdn.jsdelivr.net/github-cards/latest/widget.js" charset="utf-8">{newline}</script>
-### Contributors GitHub cards - ordered alphabetically
+### Event Contributors via GitHub cards - ordered alphabetically
 
 <div class="github-card" data-github="alanpoulain" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="alcaeus" data-width="400" data-height="150" data-theme="default"></div>
@@ -13,6 +13,8 @@
 <div class="github-card" data-github="derrabus" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="Deuchnord" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="dmaicher" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="drupol" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="dxvargas" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="fabpot" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="fancyweb " data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="greg0ire" data-width="400" data-height="150" data-theme="default"></div>
@@ -21,6 +23,7 @@
 <div class="github-card" data-github="hhamon" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="jderusse" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="jewome62" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="jfhovinne" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="jfthuillier" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="joelwurtz" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="linaori" data-width="400" data-height="150" data-theme="default"></div>
@@ -32,6 +35,7 @@
 <div class="github-card" data-github="michellesanver" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="mpdude" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="Nek-" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="netlooker" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="nicolas-grekas" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="Nyholm" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="ocramius" data-width="400" data-height="150" data-theme="default"></div>
@@ -50,6 +54,7 @@
 <div class="github-card" data-github="toflar" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="tucksaun" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="vincentchalamon" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="voidtek" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="vudaltsov" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="wouterj" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="xabbuh" data-width="400" data-height="150" data-theme="default"></div>
