@@ -9,4 +9,4 @@ For more information, see [the diversity achievements](diversity.md).
 | Existing issues closed   | 17    |
 | New issues created       | 12    |
 | Diversity PRs merged     | 3     |
-| Documentation PRs merged | 2     |
+| Documentation PRs merged | 3     |
