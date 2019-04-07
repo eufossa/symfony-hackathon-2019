@@ -30,3 +30,5 @@ See [repositories statistics](achievements/statistics.md) and the different topi
 ### Event contributors
 
 * [Event Contributors - GitHub accounts](contributors.md)
+
+<p align="center"><img src="./assets/group-photo.png"/></p>
