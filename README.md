@@ -8,30 +8,28 @@ It took place in Brussels on 6 and 7 April 2019.
 
 During the hackathon, some of the most active developers from the PHP Symfony community got together, many for the first time. The purpose of the hackathon was to bring together developers from outside and within the European Commission. Their time together was spent working on important issues for the community and the EU institutions such as new features and security.
 
-## More information
-
-### Achievements
+## Achievements
 
 The participants worked on different activities, not only coding but also reflecting on different topics such as diversity within the community.
 
 See [repositories statistics](achievements/statistics.md) and the different topics that have been worked on:
 
 * [API Platform](achievements/api-platform.md)
+* [Console](achievements/console.md)
 * [Diversity](achievements/diversity.md)
 * [Doctrine](achievements/doctrine.md)
 * [Documentation](achievements/documentation.md)
 * [Messenger](achievements/messenger.md)
 * [Security](achievements/security.md)
 * [Serializer](achievements/serializer.md)
-* [Console](achievements/console.md)
 
-### Resources and links
+## Resources, tweets and links
 
-* [Tweets](tweets.md)
 * [Resources](resources.md)
+* [Tweets](tweets.md)
 
-### Event contributors
-
-* [Event Contributors - GitHub accounts](contributors.md)
+## Event contributors
 
 <p align="center"><img src="./assets/group-photo.png"/></p>
+
+[List of contributors](contributors.md).
