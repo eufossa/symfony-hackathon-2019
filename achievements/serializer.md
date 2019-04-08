@@ -2,7 +2,7 @@
 
 The symfony/serializer component has several normalizer implementations which are rather redundant and hard to maintain. The idea is to refactor the whole process of translating between array and objects and back and rely on PropertyAccess for the logic of how to interact with objects. The discussion is summarized at https://github.com/symfony/symfony/issues/30818.
 
-EUFOSSA Hackathon helps us a lot to validate this discussion, and began the refactoring of the serializer, here is a detailed list on what we have achieved in regards to the plan during this two days:
+EUFOSSA Hackathon helped us a lot to validate this discussion, and began the refactoring of the serializer, here is a detailed list on what we have achieved in regards to the plan during these two days:
 
 ## Tests - In review
 
@@ -12,7 +12,7 @@ See https://github.com/symfony/symfony/pull/30888
 
 ## Properties extraction - Merged
 
-A new extension point was provided to be able to extract properties from an object (and not only for a class). This is needed in order to implement future behaviour that need the data of the object to filter the property list.
+A new extension point was provided to be able to extract properties from an object (and not only for a class). This is needed in order to implement future behaviour that needs the data of the object to filter the property list.
 
 A default implementation using the `PropertyListExtractorInterface` was provided.
 
