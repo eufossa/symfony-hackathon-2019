@@ -16,4 +16,5 @@
 ## Photos and videos
 
 - [BeMyApp album](https://www.flickr.com/photos/bemyapp/sets/72157679752994498)
+- [Twitter fosshackathons photos](https://twitter.com/hashtag/fosshackathons?f=images&vertical=default&src=hash)
 - [Interview with Bernard Schussek (aka webmozart)](https://www.youtube.com/watch?v=mISGpHAxxCI)
