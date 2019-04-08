@@ -4,7 +4,7 @@
 
 |                          | Total |
 | ------------------------ | ----- |
-| Merged Pull Requests     | 105   |
+| Merged Pull Requests     | 107   |
 | Proposed Pull Requests   | 181   |
 | Closed Issues            |  79   |
 | New Issues               | 143   |
