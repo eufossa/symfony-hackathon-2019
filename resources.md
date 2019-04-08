@@ -12,3 +12,8 @@
 - [Report from the Symfony EU-FOSSA Hackathon event](https://www.webfactory.de/blog/symfony-eu-fossa-hackathon-brussels-2019)
 - [First EU-FOSSA Hackathon about security, PHP, Symfony and API Platform](https://not-a-number.io/2019/eufossa-hackathon-security-php-symfony)
 - [EU-FOSSA Symfony Hackathon](https://medium.com/@yanick.witschi/eu-fossa-symfony-hackathon-6866d7c0c422)
+
+## Photos and videos
+
+- [BeMyApp album](https://www.flickr.com/photos/bemyapp/sets/72157679752994498)
+- [Interview with Bernard Schussek (aka webmozart)](https://www.youtube.com/watch?v=mISGpHAxxCI)
