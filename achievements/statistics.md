@@ -1,6 +1,6 @@
 # Repositories statistics
 
-## Code
+## Code (overall)
 
 |                          | Total |
 | ------------------------ | ----- |
@@ -8,7 +8,6 @@
 | Proposed Pull Requests   | 181   |
 | Closed Issues            |  79   |
 | New Issues               | 143   |
-
 
 ## API Platform (all repositories)
 
@@ -43,3 +42,20 @@
 | Documentation PRs merged | 3     |
 
 For more information, see [the diversity achievements](diversity.md).
+
+## 'EUFOSSA Hackathon' labelled issues and pull requests
+
+### Main Symfony repository
+
+* [Issues](https://github.com/symfony/symfony/issues?utf8=%E2%9C%93&q=label%3A%22%E2%AD%90%EF%B8%8F+EUFOSSA+Hackathon%22)
+* [Pull requests](https://github.com/symfony/symfony/pulls?utf8=%E2%9C%93&q=label%3A%22%E2%AD%90%EF%B8%8F+EUFOSSA+Hackathon%22)
+
+### Main API Platform repository
+
+* [Issues](https://github.com/api-platform/api-platform/issues?utf8=%E2%9C%93&q=label%3A%22EU-FOSSA+Hackathon%22+)
+* [Pull requests](https://github.com/api-platform/api-platform/pulls?utf8=%E2%9C%93&q=label%3A%22EU-FOSSA+Hackathon%22+)
+
+### Symfony documentation repository
+
+* [Issues](https://github.com/symfony/symfony-docs/issues?utf8=%E2%9C%93&q=label%3A%22%E2%AD%90%EF%B8%8F+EU-FOSSA+Hackathon%22+)
+* [Pull requests](https://github.com/symfony/symfony-docs/pulls?utf8=%E2%9C%93&q=label%3A%22%E2%AD%90%EF%B8%8F+EU-FOSSA+Hackathon%22+)
