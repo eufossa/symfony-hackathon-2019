@@ -23,6 +23,7 @@ See [repositories statistics](achievements/statistics.md) and the different topi
 * [Messenger](achievements/messenger.md)
 * [Security](achievements/security.md)
 * [Serializer](achievements/serializer.md)
+* [Console](achievements/console.md)
 
 ### Resources and links
 

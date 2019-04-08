@@ -9,6 +9,16 @@
 | Closed Issues            |  79   |
 | New Issues               | 143   |
 
+
+## API Platform (all repositories)
+
+|                          | Total |
+| ------------------------ | ----- |
+| Merged Pull Requests     | 20    |
+| Proposed Pull Requests   | 10    |
+| Closed Issues            | 87    |
+| New Issues               | 4     |
+
 ## Security
 
 * 2 security issues were fixed
