@@ -12,3 +12,9 @@ As a result of the above we now have a central RFC issue tracking the wishlists 
 task of what we should strive to achieve before Symfony 5.0 as it will cause some breakage.
 
 [Click here for the RFC issue](https://github.com/symfony/symfony/issues/30914).
+
+We also introduced a new password hasher built on top of [Libsodium](https://libsodium.gitbook.io/doc/), 
+a software library implementing the `Argon2` function, winner of the [Password Hashing
+Competition](https://password-hashing.net/).
+
+[Click here for the Pull Request](https://github.com/symfony/symfony/pull/31019).
