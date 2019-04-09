@@ -3,10 +3,14 @@
 
 <p align="center"><img src="./assets/symfony-logo.png" style="margin: 20px" alt="Symfony logo"/><img src="./assets/api-platform-logo.png" style="margin: 20px" alt="API Platform logo"/></p>
 
-With over 50 participants, the first [EU FOSSA](https://joinup.ec.europa.eu/collection/eu-fossa-2/about) [hackathon](https://eufossahackathon.bemyapp.com/) focused on PHP [Symfony](https://symfony.com) and [API Platform](https://api-platform.com/).
+The [EU-FOSSA](https://joinup.ec.europa.eu/collection/eu-fossa-2/about) project developed by [European institutions](https://europa.eu/) is aiming at improving the security of Open Source Software.
+
+As part of EU-FOSSA 2, the [European Commission](https://ec.europa.eu/) is organising several [hackathons](https://eufossahackathon.bemyapp.com/) where developers from both the projects and the European Institutions that rely on their software, can come together.
+
+With over 50 participants, the first hackathon focused on PHP [Symfony](https://symfony.com) and [API Platform](https://api-platform.com/).
 It took place in Brussels on 6 and 7 April 2019.
 
-During the hackathon, some of the most active developers from the PHP Symfony community got together, many for the first time. The purpose of the hackathon was to bring together developers from outside and within the European Commission. Their time together was spent working on important issues for the community and the EU institutions such as new features and security.
+During the hackathon, some of the most active developers from the PHP Symfony community got together, many for the first time. Their time together was spent working on important issues for the community and the EU institutions such as new features and security.
 
 ## Achievements
 
