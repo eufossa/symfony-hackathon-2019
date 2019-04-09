@@ -55,7 +55,7 @@ new features on the first day wanted to directly document them. "A feature does 
 without documentation" became reality this weekend! In total, 39 different authors created
 61 pull requests during the weekend!
 
-### The Hackathon ended, the Contributions did not!
+## The Hackathon ended, the Contributions did not!
 
 The hackathon gave all participants lots of positive energy, something that became obvious
 during the days after the hackathon. The stream of new PRs continued to be impressively high,
