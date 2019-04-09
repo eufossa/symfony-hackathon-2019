@@ -29,6 +29,9 @@ See [repositories statistics](achievements/statistics.md) and the different topi
 
 ## Testimonials
 
+> So proud we took part in the 1st #Symfony #FOSSHackathons in Brussels alongside more than 50 contributors! Thanks for this awesome #EUFOSSA initiative @EU_DIGIT! Feels great to see all these amazing people working together on the future of the #opensource community
+> - SensioLabs, "Créateur de Symfony"
+
 > It's been great to have 59 contributors from the Symfony, API Platform and Doctrine communities in one place to work on open source projects together. Massive thanks to the @EU_Commission for funding such an event!
 > - Michael Cullum, Symfony Security Lead
 
