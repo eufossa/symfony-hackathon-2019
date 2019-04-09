@@ -15,7 +15,7 @@ handled during the weekend.
 ### Documenting Features that were Missing for Years
 
 While Symfony puts lots of effort into documenting all new features,
-it cannot be avoided that sometimes great features as missed. During the
+it cannot be avoided that sometimes great features are missed. During the
 weekend, new undocumented features were discovered in discussions between
 contributors and time finally was found to add some more articles.
 
