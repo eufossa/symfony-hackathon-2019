@@ -27,6 +27,20 @@ See [repositories statistics](achievements/statistics.md) and the different topi
 * [Security](achievements/security.md)
 * [Serializer](achievements/serializer.md)
 
+## Testimonials
+
+> It's been great to have 59 contributors from the Symfony, API Platform and Doctrine communities in one place to work on open source projects together. Massive thanks to the @EU_Commission for funding such an event!
+> - Michael Cullum, Symfony Security Lead
+
+> Two years ago I promised @nicolasgrekas to document how to configure the #symfony cache component. This weekend I finally managed to gather all the resources and create the PR. Thank you @EU_Commission and everybody that helped me.
+> - Tobias Nyholm, Symfony Core team and CARE team
+
+> Thanks to #EUFOSSA #FOSSHackathons, @doctrineproject finally managed to throw in some focused work on automating the release flow, hopefully speeding up PR triaging by a huge lot!
+> - Marco Pivetta, Doctrine Project Core team
+
+> Back at home after 2 awesome days with the @symfony and @ApiPlatform ecosystem, I'm glad to be part of this community and this is really pushing me into more contribution thanks to all the people involved ! @bemyappBE @EU_DIGIT @coopTilleuls
+> - Hamza Amrouche, API Platform Core team
+
 ## Resources, tweets and links
 
 * [Resources](resources.md)
