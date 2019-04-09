@@ -7,12 +7,12 @@ help code contributors to write doc PRs for their contributions. Being
 able to directly help people understand the reStructuredText syntax and
 logics of writing docs was a huge help to get more features documented.
 
-This resulted in a diverse set of work done. Below is a short summary
+This resulted in a diverse set of achievements. Below is a short summary
 of all work done, but please have a look at [all GitHub issues and pull
 requests](https://github.com/symfony/symfony-docs/pulls?q=label%3A"⭐️+EU-FOSSA+Hackathon")
 handled during the weekend.
 
-### Documenting Features that were Missing for Years
+## Documenting Features that were Missing for Years
 
 While Symfony puts lots of effort into documenting all new features,
 it cannot be avoided that sometimes great features are missed. During the
@@ -28,7 +28,7 @@ docs were never updated accordingly.
 around to write a brand new [Cache guide](https://symfony.com/doc/current/cache.html).
 As the component has changed quite often and involved many code contributors, we're
 very happy there was finally an occasion where the documentors and code contributors
-couuld combine their knowledge about this topic. This will be a great help for all futur
+could combine their knowledge about this topic. This will be a great help for all future
 users of caching in Symfony!
 
 At last, [@heahdude](https://github.com/heahdude) started all enthousiasm this
@@ -37,7 +37,7 @@ weekend by creating documentation for the
 This constraint was introduced in Symfony 2.5 (that's 5 years ago!) and I'm not sure if
 anyone knew it even existed. Great to find this feature and have it documented now!
 
-### Finishing old Pull Requests
+## Finishing old Pull Requests
 
 The documentation has around 100 open PRs, most of which are open for months or even
 years. During the hackathon, developers were encouraged to finish these old PRs.
@@ -45,13 +45,13 @@ years. During the hackathon, developers were encouraged to finish these old PRs.
 Transports](https://github.com/symfony/symfony-docs/pull/11331), [@Toflar](https://github.com/Toflar)
 finished [adding Doctrine ORM installation instructions](https://github.com/symfony/symfony-docs/pull/11332),
 and some more old PRs were closed and fixed by doc team members with the help of
-[@dbrumann](https://github.com/dbrumann), who focussed for the complete hackathon on
-the docs.
+[@dbrumann](https://github.com/dbrumann), who focussed on the docs during the complete
+hackathon.
 
-### Documenting new Features
+## Documenting new Features
 
-At the second day, the docs corner became quite busy, as all developers that created
-new features on the first day wanted to directly document it. "A feature does not exists
+During the second day, the docs corner became quite busy, as all developers that created
+new features on the first day wanted to directly document them. "A feature does not exist
 without documentation" became reality this weekend! In total, 39 different authors created
 61 pull requests during the weekend!
 
@@ -59,6 +59,6 @@ without documentation" became reality this weekend! In total, 39 different autho
 
 The hackathon gave all participants lots of positive energy, something that became obvious
 during the days after the hackathon. The stream of new PRs continued to be impressively high,
-with over 24 new pull requests created at Monday (that almost equals the achievements of the
+with over 24 new pull requests created on Monday (that almost equals the achievements of the
 hackathon!). As new contributors have learned how to document their features, our hopes are
 high that the documentation will receive more help from all contributors in the future!
