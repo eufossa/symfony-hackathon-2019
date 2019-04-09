@@ -1,9 +1,11 @@
 # Symfony Console
 
-In the Symfony Console component, we've fixed some bugs that were preventing
-some contributors to run the tests independently from each other and to
-contribute even more to the component.
+We fixed some bugs in the Symfony Console component including:
 
-We started talking about how we could refactor the SymfonyStyle and blocks in
-order to have something more usable and maintenable. The fact that core team
-members and contributors meet helped a lot to fix some of the bugs.
+- [STTY not reset when aborting in QuestionHelper::autocomplete()](https://github.com/symfony/symfony/pull/30883)
+- [Inconsistent result for choice questions in non-interactive mode](https://github.com/symfony/symfony/pull/30878)
+- [Broken formatting of Table that has a trailing backslash](https://github.com/symfony/symfony/pull/30911)
+
+We also started to think about how we could refactor the current word-wrapping algorithm
+which has some known design issues.
+The fact that the core team members and contributors met helped a lot to move forward.
