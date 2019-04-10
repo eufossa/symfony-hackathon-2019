@@ -14,7 +14,7 @@ Thanks to this hackaton, [I][me] could, besides working on other Symfony related
 
 The result was:
 
-- The realease of [Box 3.7.0][box-3.7.0]
+- The release of [Box 3.7.0][box-3.7.0]
 - 11 issues closed
 - 14 pull requests
 
