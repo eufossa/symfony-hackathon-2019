@@ -39,7 +39,7 @@ a recurring problem so far) thanks to [PsySH][psysh] and [Box][box].
 [box-3.7.0]: https://github.com/humbug/box/releases/tag/3.7.0
 [httpoxy]: https://httpoxy.org
 [symfony-console]: https://symfony.com/doc/current/components/console.html
-[repl]: https://es.wikipedia.org/wiki/REPL
+[repl]: https://en.wikipedia.org/wiki/Read–eval–print_loop
 [psysh]: https://psysh.org/
 [symfony-cli]: https://symfony.com/cloud/
 [phar]: https://www.php.net/phar
