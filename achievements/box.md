@@ -6,7 +6,7 @@ it with ease.
 Over the last few months, Box has been growing in popularity especially within the [Laravel][laravel] community thanks to the
 [Laravel Zero][laravel-zero] framework, a spin-off of Laravel more focused on CLI applications.
 
-In contrast, while Box is being used with lot with projects making use of [Symfony][symfony] components, it cannot be used – at
+In contrast, while Box is being used with a lot with projects making use of [Symfony][symfony] components, it cannot be used – at
 least easily, with a standard Symfony application.
 
 Thanks to this hackathon, [I][me] could, besides working on other Symfony related issues, and with the help of 
@@ -30,7 +30,7 @@ a recurring problem so far) thanks to [PsySH][psysh] and [Box][box].
 
 
 [box]: https://github.com/humbug/box
-[laravel]: http://laravel.com
+[laravel]: https://laravel.com
 [laravel-zero]: https://laravel-zero.com/
 [symfony]: https://symfony.com/
 [me]: https://github.com/theofidry
