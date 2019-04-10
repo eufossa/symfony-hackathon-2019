@@ -23,6 +23,7 @@ See [repositories statistics](achievements/statistics.md) and the different topi
 * [Diversity](achievements/diversity.md)
 * [Doctrine](achievements/doctrine.md)
 * [Documentation](achievements/documentation.md)
+* [Flysystem](achievements/flysystem.md)
 * [Messenger](achievements/messenger.md)
 * [Security](achievements/security.md)
 * [Serializer](achievements/serializer.md)
