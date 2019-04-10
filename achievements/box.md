@@ -9,7 +9,7 @@ Over the last few months, Box has been growing in popularity especially within t
 In contrast, while Box is being used a lot with projects making use of [Symfony][symfony] components, it cannot be used, at
 least easily with a standard Symfony application.
 
-Thanks to this hackaton, [I][me] could besides working on other Symfony related issues, and with the help of 
+Thanks to this hackaton, [I][me] could, besides working on other Symfony related issues, and with the help of 
 [@nicolas-grekas][nicolas], [@stof][stof] and [@tucksaun][tucksaun], work on adding support for Symfony for Box.
 
 The result was:
