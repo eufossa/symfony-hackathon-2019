@@ -25,6 +25,7 @@ See [repositories statistics](achievements/statistics.md) and the different topi
 * [Documentation](achievements/documentation.md)
 * [Flysystem](achievements/flysystem.md)
 * [Messenger](achievements/messenger.md)
+* [Secrets](achievements/secrets.md)
 * [Security](achievements/security.md)
 * [Serializer](achievements/serializer.md)
 
