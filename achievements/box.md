@@ -1,13 +1,13 @@
 # Box Achievements
 
-[Humbug Box][box] is an application bundler for PHP apps. It allows one to ship a PHP app into a PHAR and distribute it with 
-ease.
+[Humbug Box][box] is an application bundler for PHP apps. It allows one to ship a PHP app into a [PHAR][phar] and distribute
+it with ease.
 
 Over the last few months, Box has been growing in popularity especially within the [Laravel][laravel] community thanks to the
 [Laravel Zero][laravel-zero] framework, a spin-off of Laravel more focused on CLI applications.
 
-In contrast, while Box is being used a lot with projects making use of [Symfony][symfony] components, it cannot be used, at
-least easily with a standard Symfony application.
+In contrast, while Box is being used with lot with projects making use of [Symfony][symfony] components, it cannot be used – at
+least easily, with a standard Symfony application.
 
 Thanks to this hackathon, [I][me] could, besides working on other Symfony related issues, and with the help of 
 [@nicolas-grekas][nicolas], [@stof][stof] and [@tucksaun][tucksaun], work on adding support for Symfony to Box.
@@ -42,4 +42,4 @@ a recurring problem so far) thanks to [PsySH][psysh] and [Box][box].
 [repl]: https://es.wikipedia.org/wiki/REPL
 [psysh]: https://psysh.org/
 [symfony-cli]: https://symfony.com/cloud/
-
+[phar]: https://www.php.net/phar
