@@ -19,6 +19,7 @@ The participants worked on different activities, not only coding but also reflec
 See [repositories statistics](achievements/statistics.md) and the different topics that have been worked on:
 
 * [API Platform](achievements/api-platform.md)
+* [Box](achievements/box.md)
 * [Console](achievements/console.md)
 * [Diversity](achievements/diversity.md)
 * [Doctrine](achievements/doctrine.md)
