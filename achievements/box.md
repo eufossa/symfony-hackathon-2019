@@ -1,6 +1,6 @@
 # Box Achievements
 
-[Humbug Box][box] is an application bunlder for PHP apps. It allows one to ship a PHP app into a PHAR and distribute it with 
+[Humbug Box][box] is an application bundler for PHP apps. It allows one to ship a PHP app into a PHAR and distribute it with 
 ease.
 
 Over the last few months, Box has been growing in popularity especially within the [Laravel][laravel] community thanks to the
