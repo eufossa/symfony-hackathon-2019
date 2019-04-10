@@ -1,4 +1,4 @@
-# Box Achievements
+# Box achievements
 
 [Humbug Box][box] is an application bundler for PHP apps. It allows one to ship a PHP app into a [PHAR][phar] and distribute
 it with ease.
@@ -34,6 +34,7 @@ a recurring problem so far) thanks to [PsySH][psysh] and [Box][box].
 [laravel-zero]: https://laravel-zero.com/
 [symfony]: https://symfony.com/
 [me]: https://github.com/theofidry
+[stof]: https://github.com/stof
 [nicolas]: https://github.com/nicolas-grekas
 [tucksaun]: https://github.com/tucksaun
 [box-3.7.0]: https://github.com/humbug/box/releases/tag/3.7.0
