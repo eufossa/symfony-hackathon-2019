@@ -21,11 +21,11 @@ The result was:
 This work also resulted directly into:
 
 - 2 pull requests made on the Symfony repositories (recipes & core) regarding the CLI guards within the Symfony codebase
-- Add additional screening on Symfony regarding the [HTTPoxy][httpoxy] vulnerability (not security issue found during the process)
+- Adding additional screening on Symfony regarding the [HTTPoxy][httpoxy] vulnerability (no security issue found during the process)
 - 1 issue with a reproducer regarding the [Symfony Console component][symfony-console]
 - 1 issue reproduced and solved for the [Symfony CLI tool][symfony-cli]
 
-As well more discussions have been made on how to integrate a [REPL][repl] to Symfony with minimal dependencies (which has been
+Also, more discussions have been made on how to integrate a [REPL][repl] to Symfony with minimal dependencies (which has been
 a recurring problem so far) thanks to [PsySH][psysh] and [Box][box].
 
 
