@@ -12,6 +12,7 @@
 - [Report from the Symfony EU-FOSSA Hackathon event](https://www.webfactory.de/blog/symfony-eu-fossa-hackathon-brussels-2019)
 - [First EU-FOSSA Hackathon about security, PHP, Symfony and API Platform](https://not-a-number.io/2019/eufossa-hackathon-security-php-symfony)
 - [EU-FOSSA Symfony Hackathon](https://medium.com/@yanick.witschi/eu-fossa-symfony-hackathon-6866d7c0c422)
+- [Retour sur le Hackathon EU-Fossa Symfony / API Platform (FR)](https://les-tilleuls.coop/fr/blog/article/hackathon-eu-fossa-2019)
 
 ## Photos and videos
 
