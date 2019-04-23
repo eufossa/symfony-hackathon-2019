@@ -23,10 +23,5 @@ Now that named aliases are available, a much better integration with Flysystem
 could be achieved. This is one of the things I worked on during this hackathon: 
 creating this integration, as an official Symfony bundle for Flysystem.
 
-The repository for this project is available at 
-[https://github.com/thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle). 
-It's not entirely finished but it will be in the coming days.
-
-The aim of this integration is to become the Symfony official filesystem 
-abstraction, by providing a great documentation, leveraging all the powerful 
-features of Flysystem and creating a Symfony Flex recipe.
+You can learn more details about this integration in the dedicated blog post:
+[https://titouangalopin.com/introducing-the-official-flysystem-bundle/](https://titouangalopin.com/introducing-the-official-flysystem-bundle/).
