@@ -43,6 +43,12 @@
 
 For more information, see [the diversity achievements](diversity.md).
 
+## Continuous Integration builds
+
+The below graph shows the activity of the continuous integration pipeline during and after the event.
+
+<p align="center"><img src="./assets/ci-stats.png" style="margin: 10px" alt="Travis CI builds graph"/></p>
+
 ## 'EUFOSSA Hackathon' labelled issues and pull requests
 
 ### Main Symfony repository
