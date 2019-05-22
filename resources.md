@@ -4,6 +4,7 @@
 
 - [Co-creating the future of Open Source](https://ec.europa.eu/info/news/co-creating-future-open-source-eu-fossa-2-hackathons-2019-mar-21_en)
 - [Joinup](https://joinup.ec.europa.eu/collection/eu-fossa-2/about)
+- [First EU-FOSSA Hackathon as it happened](https://ec.europa.eu/info/news/first-eu-fossa-hackathon-it-happened-2019-may-03_en)
 
 ## Web pages and articles
 
